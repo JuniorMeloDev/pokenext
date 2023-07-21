@@ -23,6 +23,13 @@
     list-style: none;
 }
 
+.link_itens_poke {
+    display: flex;
+    color: #fff;
+    text-decoration: none;
+}
+
+
 .link_itens li {
     margin-right: 1.3em;
 }
